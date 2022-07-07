@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\bin\Debug\net6.0\Lista04-Vetores-Matrizes.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\bin\Debug\net6.0\Lista04-Vetores-Matrizes.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\bin\Debug\net6.0\Lista04-Vetores-Matrizes.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\bin\Debug\net6.0\Lista04-Vetores-Matrizes.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\bin\Debug\net6.0\Lista04-Vetores-Matrizes.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\refint\Lista04-Vetores-Matrizes.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\Lista04-Vetores-Matrizes.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista04-Vetores-Matrizes\obj\Debug\net6.0\ref\Lista04-Vetores-Matrizes.dll

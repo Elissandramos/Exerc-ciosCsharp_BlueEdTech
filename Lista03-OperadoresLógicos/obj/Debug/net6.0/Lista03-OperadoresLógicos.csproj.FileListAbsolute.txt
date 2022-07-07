@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\bin\Debug\net6.0\Lista03-OperadoresLógicos.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\bin\Debug\net6.0\Lista03-OperadoresLógicos.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\bin\Debug\net6.0\Lista03-OperadoresLógicos.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\bin\Debug\net6.0\Lista03-OperadoresLógicos.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\bin\Debug\net6.0\Lista03-OperadoresLógicos.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\refint\Lista03-OperadoresLógicos.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\Lista03-OperadoresLógicos.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista03-OperadoresLógicos\obj\Debug\net6.0\ref\Lista03-OperadoresLógicos.dll

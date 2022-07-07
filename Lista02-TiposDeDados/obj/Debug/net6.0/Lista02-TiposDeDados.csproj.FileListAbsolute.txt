@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\bin\Debug\net6.0\Lista02-TiposDeDados.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\bin\Debug\net6.0\Lista02-TiposDeDados.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\bin\Debug\net6.0\Lista02-TiposDeDados.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\bin\Debug\net6.0\Lista02-TiposDeDados.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\bin\Debug\net6.0\Lista02-TiposDeDados.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\refint\Lista02-TiposDeDados.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\Lista02-TiposDeDados.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista02-TiposDeDados\obj\Debug\net6.0\ref\Lista02-TiposDeDados.dll

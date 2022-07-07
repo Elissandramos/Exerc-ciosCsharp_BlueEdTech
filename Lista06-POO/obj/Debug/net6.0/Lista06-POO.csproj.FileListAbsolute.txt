@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\bin\Debug\net6.0\Lista06-POO.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\bin\Debug\net6.0\Lista06-POO.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\bin\Debug\net6.0\Lista06-POO.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\bin\Debug\net6.0\Lista06-POO.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\bin\Debug\net6.0\Lista06-POO.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\refint\Lista06-POO.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\Lista06-POO.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista06-POO\obj\Debug\net6.0\ref\Lista06-POO.dll

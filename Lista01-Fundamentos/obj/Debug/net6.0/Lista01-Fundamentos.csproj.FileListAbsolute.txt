@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\bin\Debug\net6.0\Lista01-Fundamentos.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\bin\Debug\net6.0\Lista01-Fundamentos.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\bin\Debug\net6.0\Lista01-Fundamentos.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\bin\Debug\net6.0\Lista01-Fundamentos.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\bin\Debug\net6.0\Lista01-Fundamentos.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\refint\Lista01-Fundamentos.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\Lista01-Fundamentos.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista01-Fundamentos\obj\Debug\net6.0\ref\Lista01-Fundamentos.dll

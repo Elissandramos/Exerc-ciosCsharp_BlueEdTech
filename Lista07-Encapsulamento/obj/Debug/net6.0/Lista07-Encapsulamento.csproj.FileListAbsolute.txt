@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\bin\Debug\net6.0\Lista07-Encapsulamento.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\bin\Debug\net6.0\Lista07-Encapsulamento.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\bin\Debug\net6.0\Lista07-Encapsulamento.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\bin\Debug\net6.0\Lista07-Encapsulamento.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\bin\Debug\net6.0\Lista07-Encapsulamento.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\refint\Lista07-Encapsulamento.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\Lista07-Encapsulamento.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista07-Encapsulamento\obj\Debug\net6.0\ref\Lista07-Encapsulamento.dll

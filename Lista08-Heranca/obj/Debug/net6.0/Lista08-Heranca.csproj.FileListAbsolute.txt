@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\bin\Debug\net6.0\Lista08-Heranca.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\bin\Debug\net6.0\Lista08-Heranca.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\bin\Debug\net6.0\Lista08-Heranca.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\bin\Debug\net6.0\Lista08-Heranca.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\bin\Debug\net6.0\Lista08-Heranca.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\refint\Lista08-Heranca.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\Lista08-Heranca.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista08-Heranca\obj\Debug\net6.0\ref\Lista08-Heranca.dll

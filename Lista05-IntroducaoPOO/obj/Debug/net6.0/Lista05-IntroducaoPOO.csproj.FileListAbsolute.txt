@@ -1,0 +1,15 @@
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\bin\Debug\net6.0\Lista05-IntroducaoPOO.exe
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\bin\Debug\net6.0\Lista05-IntroducaoPOO.deps.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\bin\Debug\net6.0\Lista05-IntroducaoPOO.runtimeconfig.json
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\bin\Debug\net6.0\Lista05-IntroducaoPOO.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\bin\Debug\net6.0\Lista05-IntroducaoPOO.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.csproj.AssemblyReference.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.AssemblyInfoInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.AssemblyInfo.cs
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\refint\Lista05-IntroducaoPOO.dll
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.pdb
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\Lista05-IntroducaoPOO.genruntimeconfig.cache
+C:\Users\Elissandra\source\repos\ExercíciosCsharp_BlueEdTech\Lista05-IntroducaoPOO\obj\Debug\net6.0\ref\Lista05-IntroducaoPOO.dll
