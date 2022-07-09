@@ -2,7 +2,7 @@
 ## APIwebEscola
 <br/>Exercícios realizados durante o bootcamp 'Coding girls', parceria BlueEdTech  [BlueEdTech](https://blueedtech.com.br/) e [RDI by Capgemin](https://www.rdisoftware.com/)  Elaborado em: 07/07/2022.
 
-[Download Escopo Exercicios]()
+[Download Escopo Exercicios](https://github.com/Elissandramos/Exerc-ciosCsharp_BlueEdTech/blob/main/ExerciciosCsharp.zip)
 
 
 ## Listagem de exercícios por conteúdo de estudo 
