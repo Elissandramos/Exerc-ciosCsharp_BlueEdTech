@@ -1,6 +1,6 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Elissandramos/APIwebEscola/blob/main/LICENSE) 
 ## APIwebEscola
-<br/>Exercícios realizados durante o bootcamp 'Coding girls', parceria BlueEdTech  [BlueEdTech](https://blueedtech.com.br/) e [RDI by Capgemin](https://www.rdisoftware.com/)  Elaborado em: 07/07/2022.
+<br/>Exercícios realizados durante o bootcamp 'Coding girls', parceria BlueEdTech  [BlueEdTech](https://blueedtech.com.br/) e [RDI by Capgemin](https://www.rdisoftware.com/)  Elaborado Durante: 07/2022.
 
 [Download Escopo Exercicios](https://github.com/Elissandramos/Exerc-ciosCsharp_BlueEdTech/blob/main/ExerciciosCsharp.zip)
 
